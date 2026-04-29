@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="mathilde_abel.jpg">
 
-I am an **Assistant Professor in Socio-Economics** at [Télécom Paris – Institut Polytechnique de Paris](https://www.telecom-paris.fr), affiliated with the [i3 – Interdisciplinary Institute for Innovation](https://i3.cnrs.fr) (CNRS UMR 9217).
+I am an **Associate Professor in Economic sociology** at [Télécom Paris – Institut Polytechnique de Paris]([https://www.telecom-paris.fr](https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/sciences-economiques-sociales)), affiliated with the [i3 – Interdisciplinary Institute for Innovation](https://i3.cnrs.fr) (CNRS UMR 9217).
 
-My research focuses on the **political economy of digital platforms**, **platform labor**, and the **transformation of work** driven by algorithmic intermediation. I combine theoretical frameworks (convention theory, institutional economics) with computational methods (NLP, machine learning) to analyze power dynamics in platform economies.
+My research focuses on the **political economy of digital platforms**, **platform labor**, and the **transformation of work** driven by algorithmic intermediation. I combine theoretical frameworks (institutional economics, convention theory, digital labor) with computational methods (NLP, machine learning) to analyze power dynamics in platform economies.
 
 ## Ongoing Research Projects
 
