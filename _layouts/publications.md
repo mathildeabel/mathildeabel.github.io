@@ -10,11 +10,11 @@ layout: default
 
 2. **2022** – Partout, tout le temps : la promesse des plateformes à l'épreuve des temporalités. Comparaison de trois études de cas, avec P. Dieuaide, A. Jan et S. Zarka. *Questions de communication*, 40(2) : 193‑212.
 
-3. **2022** – Les capacités des plateformes numériques comme maintien de l'équilibre conventionnel. Deux études de cas du secteur du transport de personnes : Uber et Blablacar. *Innovations – Revue d'économie et de management de l'innovation*, 69(3) : 15‑42. [Rang B]
+3. **2022** – Les capacités des plateformes numériques comme maintien de l'équilibre conventionnel. Deux études de cas du secteur du transport de personnes : Uber et Blablacar. *Innovations – Revue d'économie et de management de l'innovation*, 69(3) : 15‑42.
 
 4. **2021** – Le marché biface comme convention de production : deux études de cas d'organisations plateformes de transport de personnes. *Terminal*, 131 [En ligne].
 
-5. **2020** – From Uber to Local Commuting Platforms: The diversity of Small and Medium Platform Initiatives. Case Study of the Mobility Sector in France. *International Journal of Small and Medium Enterprises and Business Sustainability*, 5(2) : 69‑93. [Rang C]
+5. **2020** – From Uber to Local Commuting Platforms: The diversity of Small and Medium Platform Initiatives. Case Study of the Mobility Sector in France. *International Journal of Small and Medium Enterprises and Business Sustainability*, 5(2) : 69‑93.
 
 ---
 
