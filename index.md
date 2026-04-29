@@ -2,44 +2,25 @@
 layout: default
 ---
 
-## About Me
+<img class="profile-picture" src="photo.jpg">
 
-<img class="profile-picture" src="sherlock.jpg">
+I am an **Assistant Professor in Socio-Economics** at [Télécom Paris – Institut Polytechnique de Paris](https://www.telecom-paris.fr), affiliated with the [i3 – Interdisciplinary Institute for Innovation](https://i3.cnrs.fr) (CNRS UMR 9217).
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+My research focuses on the **political economy of digital platforms**, **platform labor**, and the **transformation of work** driven by algorithmic intermediation. I combine theoretical frameworks (convention theory, institutional economics) with computational methods (NLP, machine learning) to analyze power dynamics in platform economies.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Ongoing Research Projects
 
-## Research Interest
+- **[VOLI](/)** – *Voices from Online Labour*: analyzing the trajectories and agency of platform workers.
+- **[DEMETRA](/)** – *DElivering METrics for fair work and TRAnsparency*: building indicators for fair work accountability.
+- **[AI–WORLd](/)** – *AI Workers' rights litigation*: studying legal disputes around workers' rights in the age of AI.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Research Interests
 
-## Publications
+Political economy of digital platforms · Platform labor and grey zones of employment · Algorithmic power and coordination · Convention theory · Natural language processing (NLP) · Mixed computational methods
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## News
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- **October 2025** – Invited talk at Yale University & Digital Ethics Center: *Digital Platform Worker Agency: Where is Power Asymmetry Located?*
+- **September 2025** – Presentations at the 8th INDL Conference (University of Bologna) and the University of Lucerne.
+- **July 2025** – Presentation at CNAM, Paris: *Mapping Uber's Power*.
+- **November 2024** – PhD defense in Economics, Université Sorbonne Nouvelle.
