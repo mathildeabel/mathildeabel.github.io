@@ -1,24 +1,23 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-
-markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-
-sass:
-    style: compressed
-    sass_dir: _sass
+title: Mathilde Abel
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/"
+  - name: "Publications"
+    link: "/publications"
+  - name: "Teaching"
+    link: "/teaching"
+  - name: "Contact"
+    link: "/contact"
+
+footer:
+  - name: "Email"
+    link: "mailto:mathilde.abel@telecom-paris.fr"
+  - name: "LinkedIn"
+    link: "https://www.linkedin.com/in/mathilde-abel-4bb573197"
+  - name: "GitHub"
+    link: "https://github.com/mathildeabl"
+  - name: "ORCID"
+    link: "https://orcid.org/0000-0003-1467-12890"
+
+remote_theme: ankitsultana/researcher@gem
